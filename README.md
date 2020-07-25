@@ -1,0 +1,25 @@
+# multiple-app
+in this app we have created TICTACTOE game,simple calculator,scientific calculator,and menu list.
+      TICTACTOE GAME
+      Tic-Tac-Toe is a simple and fun game for 2 players, X and O. It is played on a 3x3 grid. Each player's goal is to make 3 in a row.
+
+Typically, X starts first, but in Gametable's Tabletop Tic Tac Toe, Player 1 starts first on the first game and Player 2 (or the computer) starts first on the next game. The starting player continues to alternate from game to game. This helps keep gameplay fair over time.
+
+Players take turns placing their Mark, X or O, on an open square in the grid. The first player to make 3 of their own mark in a row vertically, horizontally, or diagonally wins the game.
+
+If all 9 squares are filled and neither player has 3 in a row, the game is considered a Tie.
+
+The expert artificial intelligence (AI) will play a perfect game. Try your best to Tie it for as long as you can!
+
+
+SIMPLE CALCULATOR
+This is a simple basic calculator with memory functions similar to a small handheld calculator. Use this basic calculator for math with addition, subtraction, division and multiplication. Memory and clear functions for this standard calculator are listed below.
+
+mc = Memory Clear
+m+ = Memory Plus
+m- = Memory Minus
+mr = Memory Recall
+
+
+SCIENTIFIC CALCULATOR
+A scientific calculator is a type of electronic calculator, usually but not always handheld, designed to calculate problems in science, engineering, and mathematics. They have completely replaced slide rules in traditional applications, and are widely used in both education and professional settings
